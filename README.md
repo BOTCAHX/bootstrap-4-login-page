@@ -1,4 +1,4 @@
-> Need Bootstrap 5 version? [Available here!](https://github.com/nauvalazhar/bootstrap-5-login-page/)
+ Bootstrap 5 version? [Available here!](https://github.com/nauvalazhar/bootstrap-5-login-page/)
 
 # Bootstrap 4 Login Page Template
 
